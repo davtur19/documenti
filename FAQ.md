@@ -1,13 +1,15 @@
 # FAQ
 
+***DISCLAIMER** Questo documento non vuole essere un dogma. Le informazioni riportate in basso sono principalmente frutto di opinioni di una community, e non sono "scientificamente dimostrate". Se volete proporre nuovi contenuti, siete invitati a fare una pull request.*
+
 ### Voglio entrare nel mondo della sicurezza informatica, da dove inizio?
 La sicurezza informatica è una specializzazione dell'informatica, quindi una conoscenza informatica "moderna" di base è necessaria:
 - Programmazione (algoritmi, strutture dati, ecc.)
- Sistemi Operativi (come funzionano, come interagirci, ecc.)
+- Sistemi Operativi (come funzionano, come interagirci, ecc.)
 - Reti (almeno i protocolli fondamentali dello stack tcp/ip)
 - Architettura (macchina di Von Neumann, un asm moderno, ecc.)
 
-Se credi di avere già un'infarinatura su questi argomenti, puoi cominciare a vedere tecnologie specifiche e collegate alla sicurezza informatica. Ad esempio:
+Se credi di avere già un'infarinatura su questi argomenti, puoi cominciare a studiare i concetti specifici collegati al ramo della sicurezza informatica che più ti interessa. Ad esempio:
 - Malware Analysis: focus su asm Intel e ARM, techniche di binary analysis, internals Windows/Android.
 - Application Security: focus su sistemi operativi/mitigation, programmazione sicura, classi di vulnerabilità.
 - Network Security: focus su protocolli di rete a ogni layer e relative classi di attacco, networking stack dei sistemi operativi.
@@ -15,32 +17,26 @@ Se credi di avere già un'infarinatura su questi argomenti, puoi cominciare a ve
 
 Inutile ricordare che la conoscenza dell'inglese è fondamentale, e viene prima di qualsiasi altra cosa.
 
-### Quale OS consigliate?  
-Quello dove hai più dimestichezza, se hai bisogno di cose specifiche per una piattaforma esistono comunque le macchine virtuali (ad es. Virtualbox). Ovviamente, se ti interessa imparare un sistema operativo specifico, usa quello, probabilmente comincia con le versioni-distribuzioni più diffuse e moderne.
-
 ### Quali corsi universitari consigliate?
 I corsi consigliati sono quelli che coprono gli argomenti elencati nella prima domanda, quindi per la triennale un corso di Computer Science (informatica) o Computer Engineering (ingegneria informatica).
 Esistono anche corsi sulla sicurezza informatica triennali o magistrali, in presenza o online.
-In Italia esitono corsi magistrali di sicurezza nelle seguenti università:
-- Politecnico di Miliano
-- Università di Pisa
-- Università di Milano
-- Università di Bologna
-...
+Per una lista aggiornata dell'offerta accademica in Italia consulta [questa pagina](https://www.consorzio-cini.it/index.php/it/labcs-home/formazione-in-cyber-security-in-italia) sul sito del Consorzio CINI.
+
+### Quale OS consigliate?  
+Quello su cui hai più dimestichezza. Se hai bisogno di un sistema operativo particolare è sempre possibile usare una macchina virtuale (ad es. Virtualbox). Ovviamente, se ti interessa imparare un sistema operativo specifico, usa quello come sistema operativo principale.
 
 ### Che mi dite di Kali (BackBox, Parrot, BlackArch, ecc...)?
-L'unico buon motivo per usare Kali (o qualsiasi altra distribuzione dedicata al pentesting) è se serve un tool al volo, in un momento d'emergenza, e non si ha il tempo/modo di installarlo. In nessun altro caso è suggerito di usare una distribuzione dedicata. E sicuramente non è suggerito di usare una distribuzione dedicata come OS principale. Se stai studiando sicurezza informatica, è molto meglio installare i tool necessari per lo studio. L'installazione stessa del tool è componente didattica.
+L'unico buon motivo per usare Kali (o qualsiasi altra distribuzione dedicata al pentesting) è la necessità di dover utilizzare un tool per un'occasione singola, per un'emergenza, o per valutarlo senza installarlo sulla propria postazione lavorativa. Non c'è reale motivo per usare una distribuzione dedicata ad un determinato scopo come OS giornaliero, né per studio. Se stai studiando sicurezza informatica, è caldamente installare i tool necessari sulla propria postazione lavorativa o su una VM dedicata; l'installazione stessa del tool, soprattutto se da sorgenti, è componente didattica.
 
 ### Quali certificazioni consigliate?
-Le certificazioni sono un mezzo tramite il quale un'azienda può appunto certificare che un proprio dipendente ha le copetenze testate da un esame di certificazione. Sono uno strumento aziendale più che un percorso formativo.
-Se sei uno studente senza esperienza lavorativa, una certificazione non ti aiuterà a trovare lavoro.
-Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma potrebbe non essere sufficiente.
-Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare lavoro in caso un'azienda stia cercando figure certificate, ma anche in quel caso potrebbe non essere sufficiente.
-In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, dovrebbe essere l'azienda a preoccuparsi a certificare i propri dipendenti. È raro che ne valga la pena pagare una certificazione di tasca propria.
+Le certificazioni sono un mezzo efficace tramite il quale un'azienda può dimostrare di avere personale con competenze in un settore, verificate da un ente indipendente e riconosciuto. Sono quindi principalmente uno strumento aziendale e non un percorso formativo:
+- Se sei uno studente senza esperienza lavorativa, una certificazione non ti aiuterà a trovare lavoro
+- Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma molto probabilmente non sarà sufficiente.
+- Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione specifica potrebbe aiutarti a trovare lavoro in caso un'azienda stesse cercando figure certificate in quel determinato ambito, ma anche in quel caso potrebbe non essere sufficiente, dato che non si riuscirebbe a dimostrare esperienza.
 
-*[in aggiornamento]*
+In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, dovrebbe essere l'azienda a preoccuparsi di certificare i propri dipendenti. Come hai potuto leggere su, sono rari i casi in cui valga davvero la pena investire in una certificazione, e non sempre portano al risultato ottenuto.
 
-## Lista libri e risorse consigliate divisi per categoria (aggiungere sezioni e/o sottosezioni se servono)
+## Lista libri e risorse consigliate divisi per categoria
 
 ### Crypto
 - Applied Cryptography: Protocols, Algorithms, and Source Code in C https://www.amazon.com/exec/obidos/ASIN/0471117099/counterpane/
@@ -89,4 +85,6 @@ In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, 
 - Gli "Hacker" che sentono il bisogno di scriverlo nella bio di Twitter e/o Linkedin
 - Qualsiasi corso che in tre semplici lezioni ti farà diventare un hacker etico
 - Hacklog e qualsiasi altro videocorso che promette risultati garantiti in 7 giorni
-- Qualsiasi religion war relativa a software, sistemi operativi ecc... Il radicalismo (in qualsiasi ambito) è il tumore del progresso. Gli estremisti fungono da metastasi.
+- Qualsiasi religion war relativa a software, sistemi operativi, ecc. Il radicalismo (in qualsiasi ambito) è il tumore del progresso. Gli estremisti fungono da metastasi.
+
+*[in aggiornamento]*
