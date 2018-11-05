@@ -39,8 +39,8 @@ In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, 
 ## Lista libri e risorse consigliate divisi per categoria
 
 ### Crypto
-- Applied Cryptography: Protocols, Algorithms, and Source Code in C https://www.amazon.com/exec/obidos/ASIN/0471117099/counterpane/
-- Serious Crypto https://nostarch.com/seriouscrypto
+- [Applied Cryptography: Protocols, Algorithms, and Source Code in C](https://www.amazon.it/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/)
+- [Serious Crypto](https://nostarch.com/seriouscrypto)
 
 ### Sistemi operativi/architettura
 - [I moderni sistemi operativi](https://www.amazon.it/moderni-sistemi-operativi-aggiornamento-online/dp/8891901016/)
@@ -65,7 +65,7 @@ In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, 
 
 ### OS
 - Windows
-  - [Windows Internals, Book 1: User Mode] (https://www.amazon.it/Windows-Internals-Book-User-Mode/dp/0735684189/)
+  - [Windows Internals, Book 1: User Mode](https://www.amazon.it/Windows-Internals-Book-User-Mode/dp/0735684189/)
   - [Accelerated Windows Malware Analysis with Memory Dumps](https://www.amazon.it/Accelerated-Windows-Malware-Analysis-Memory/dp/1908043865/)
 - Linux
   - [Understanding the Linux Kernel](https://www.amazon.it/Understanding-Linux-Kernel-Daniel-Bovet/dp/0596005652/)
