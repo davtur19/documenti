@@ -78,9 +78,10 @@ In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, 
 - PoC || GTFO https://nostarch.com/gtfo
 - PoC || GTFO 2 https://nostarch.com/gtfo2
 - The art of exploitation https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/
+- The paradox of choice http://azeria-labs.com/downloads/Paradox-Of-Choice_Azeria.pdf
 
 ## Wall of Shame: materiale caldamente sconsigliato
-
+1
 - Qualsiasi distro "per il pentest" (Kali, Parrot, ecc.)
 - Gli "Hacker" che sentono il bisogno di scriverlo nella bio di Twitter e/o Linkedin
 - Qualsiasi corso che in tre semplici lezioni ti farà diventare un hacker etico
