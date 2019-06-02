@@ -34,7 +34,7 @@ Le certificazioni sono un mezzo efficace tramite il quale un'azienda può dimost
 - Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma molto probabilmente non sarà sufficiente.
 - Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione specifica potrebbe aiutarti a trovare lavoro in caso un'azienda stesse cercando figure certificate in quel determinato ambito, ma anche in quel caso potrebbe non essere sufficiente, dato che non si riuscirebbe a dimostrare esperienza.
 
-In ogni caso, dato che le certificazioni, come detto, sonn strumenti aziendali, dovrebbe essere l'azienda a preoccuparsi di certificare i propri dipendenti. Come hai potuto leggere su, sono rari i casi in cui valga davvero la pena investire in una certificazione, e non sempre portano al risultato ottenuto.
+In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, dovrebbe essere l'azienda a preoccuparsi di certificare i propri dipendenti. Come hai potuto leggere su, sono rari i casi in cui valga davvero la pena investire in una certificazione, e non sempre portano al risultato ottenuto.
 
 ## Lista libri e risorse consigliate divisi per categoria
 
