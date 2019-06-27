@@ -41,6 +41,8 @@ In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, 
 ### Crypto
 - [Applied Cryptography: Protocols, Algorithms, and Source Code in C](https://www.amazon.it/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/)
 - [Serious Crypto](https://nostarch.com/seriouscrypto)
+- [CryptoBook](https://crypto.stanford.edu/~dabo/cryptobook/)
+- [Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 
 ### Sistemi operativi/architettura
 - [I moderni sistemi operativi](https://www.amazon.it/moderni-sistemi-operativi-aggiornamento-online/dp/8891901016/)
@@ -50,13 +52,14 @@ In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, 
 - [Introduction to Algorithms](https://www.amazon.it/Introduction-Algorithms-Thomas-H-Cormen/dp/0262533057/)
 - C
   - [King](https://www.amazon.it/Programmazione-C-Kim-N-King/dp/8838785821/)
-  - [K&R](https://www.amazon.it/Programming-Language-PROGRAMMING-LANG-English-ebook/dp/B009ZUZ9FW/)
+  - [K&R](https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf)
 - Assembly
   - [Practical Reverse Engineering](https://www.amazon.it/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/)
   - [Modern Assembly Language Programming with the ARM Processor](https://www.amazon.it/Modern-Assembly-Language-Programming-Processor/dp/0128036982/)
 - [Rust](https://doc.rust-lang.org/book/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [Think](https://greenteapress.com/wp/)
 
 ### Networking
 - [Reti di calcolatori e internet. Un approccio top-down](https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891902543/)
@@ -68,6 +71,7 @@ In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, 
   - [Windows Internals, Book 1: User Mode](https://www.amazon.it/Windows-Internals-Book-User-Mode/dp/0735684189/)
   - [Accelerated Windows Malware Analysis with Memory Dumps](https://www.amazon.it/Accelerated-Windows-Malware-Analysis-Memory/dp/1908043865/)
 - Linux
+  - [Amministrare GNU/Linux](https://www.operedigitali.com/archivio/Amministrare-GNU-Linux-V4.0-web-cover-bis.pdf)
   - [Understanding the Linux Kernel](https://www.amazon.it/Understanding-Linux-Kernel-Daniel-Bovet/dp/0596005652/)
   - [Guida alla Programmazione in Linux](https://gapil.gnulinux.it/)
 - macOS
