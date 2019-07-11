@@ -93,7 +93,7 @@ In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, 
 
 - [phrack](https://www.phrack.org)
 - [PoC || GTFO](https://nostarch.com/gtfo)
-- [PoC || GTFO 2]((https://nostarch.com/gtfo2)
+- [PoC || GTFO 2](https://nostarch.com/gtfo2)
 - [The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/)
 - [The paradox of choice](http://azeria-labs.com/downloads/Paradox-Of-Choice_Azeria.pdf)
 
