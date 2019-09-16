@@ -96,12 +96,11 @@ In termini d'utilità:
 - [phrack](https://www.phrack.org)
 - [PoC || GTFO](https://nostarch.com/gtfo)
 - [PoC || GTFO 2](https://nostarch.com/gtfo2)
-- [The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/)
 - [The paradox of choice](http://azeria-labs.com/downloads/Paradox-Of-Choice_Azeria.pdf)
 
 ### News
 
-- [HN](https://news.ycombinator.com/) (Quello vero 🙃)
+- [HackerNews](https://news.ycombinator.com/) (Quello vero 🙃)
 
 ### Blog
 
