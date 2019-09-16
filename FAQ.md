@@ -1,6 +1,6 @@
 # FAQ
 
-***DISCLAIMER** Questo documento non vuole essere un dogma. Le informazioni riportate in basso sono principalmente frutto di opinioni di una community, e non sono "scientificamente dimostrate". Se volete proporre nuovi contenuti, siete invitati a fare una pull request.*
+***DISCLAIMER** Questo documento non vuole essere un dogma. Le informazioni riportate in basso sono principalmente frutto di opinioni di una community e non sono "scientificamente dimostrate". Sebbene il documento contenga informazioni potenzialmente applicabili a qualsiasi circostanza, il target audience comprende principalmente giovani studenti indecisi. Se volete proporre nuovi contenuti, siete invitati a fare una pull request.*
 
 ### Voglio entrare nel mondo della sicurezza informatica, da dove inizio?
 
@@ -16,35 +16,34 @@ Se credi di avere già un'infarinatura su questi argomenti, puoi cominciare a st
 - Malware Analysis: focus su asm Intel e ARM, techniche di binary analysis, internals Windows/Android.
 - Application Security: focus su sistemi operativi/mitigation, programmazione sicura, classi di vulnerabilità.
 - Network Security: focus su protocolli di rete a ogni layer e relative classi di attacco, networking stack dei sistemi operativi.
-- Incident Response/Digital Forensics: focus su periferiche e le loro comunicazioni, file system e hard/solid state drive, Windows/Linux internals.
+- Incident Response/Digital Forensics: focus su periferiche e i loro canali di comunicazione, file system e hard/solid state drive, Windows/Linux internals.
 
 Inutile ricordare che la conoscenza dell'inglese è fondamentale, e viene prima di qualsiasi altra cosa.
 
-### Quali corsi universitari consigliate?
+### Quale corso universitario devo seguire?
 
 I corsi consigliati sono quelli che coprono gli argomenti elencati nella prima domanda, quindi per la triennale un corso di Computer Science (informatica) o Computer Engineering (ingegneria informatica).
 Esistono anche corsi sulla sicurezza informatica triennali o magistrali, in presenza o online.
 Per una lista aggiornata dell'offerta accademica in Italia consulta [questa pagina](https://www.consorzio-cini.it/index.php/it/labcs-home/formazione-in-cyber-security-in-italia) sul sito del Consorzio CINI.
 
-### Quale OS consigliate?
+### Quale OS devo usare?
 
 Quello su cui hai più dimestichezza. Se hai bisogno di un sistema operativo particolare è sempre possibile usare una macchina virtuale (ad es. Virtualbox). Ovviamente, se ti interessa imparare un sistema operativo specifico, usa quello come sistema operativo principale.
 
-### Che mi dite di Kali (BackBox, Parrot, BlackArch, ecc...)?
+### Devo installare Kali Linux (o BackBox, Parrot, BlackArch, ecc...)?
 
-L'unico buon motivo per usare Kali (o qualsiasi altra distribuzione dedicata al pentesting) è la necessità di dover utilizzare un tool per un'occasione singola, per un'emergenza, o per valutarlo senza installarlo sulla propria postazione lavorativa. Non c'è reale motivo per usare una distribuzione dedicata ad un determinato scopo come OS giornaliero, né per studio. Se stai studiando sicurezza informatica, è caldamente consigliato installare i tool necessari sulla propria postazione lavorativa o su una VM dedicata; l'installazione stessa del tool, soprattutto se da sorgenti, è componente didattica.
+Per studiare sicurezza informatica è necessario installare Kali Linux, nè in una macchina virtuale, nè come OS principale. Quando si studia un argomento, tipicamente si usano 1-3 tool specifici. Le distribuzioni dedicate come Kali hanno lo scopo di offrire centinaia di tool senza doversi preoccupare di installarli e configurarli. È facile intuire che con un'esigenza di 1-3 tool, installarne centinaia sia uno spreco. In situazioni invece dove, per esempio, si ha la necessità di dover lanciare una singola volta un tool specifico, mai usato prima, che richiede patch e dipendenze installate da sorgente, una distribuzione dedicata è perfetta. Ma raramente studiando ci si trova in questa situazione.
 
-### Quali certificazioni consigliate?
+### Devo prendere certificazioni? Quali?
 
-Le certificazioni sono un mezzo efficace tramite il quale un'azienda può dimostrare di avere personale con competenze in un settore, verificate da un ente indipendente e riconosciuto. Sono quindi principalmente uno strumento aziendale e non un percorso formativo:
+Le certificazioni sono il mezzo per il quale un'azienda può dimostrare di avere personale con competenze in un settore, verificate da un ente indipendente e riconosciuto. Sono quindi principalmente uno strumento aziendale e non un percorso formativo. È quindi responsabilità delle aziende permettere e supportare i propri dipendenti ad ottenere certificazioni professionali.
 
-- Se sei uno studente senza esperienza lavorativa, una certificazione non ti aiuterà a trovare lavoro
-- Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma molto probabilmente non sarà sufficiente.
-- Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione specifica potrebbe aiutarti a trovare lavoro in caso un'azienda stesse cercando figure certificate in quel determinato ambito, ma anche in quel caso potrebbe non essere sufficiente, dato che non si riuscirebbe a dimostrare esperienza.
+In termini d'utilità:
+- Se sei uno studente senza esperienza lavorativa, una certificazione non ti aiuterà a trovare lavoro perché probabilmente sarai allo stesso piano di qualcuno non certificato
+- Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma probabilmente non sarà sufficiente per mantenere una seniority equivalente
+- Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione specifica potrebbe aiutarti a trovare lavoro presso un'aziende che la richiede, ma anche in quel caso potrebbe non essere sufficiente, dato che non si riuscirebbe a dimostrare esperienza in materia
 
-In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, dovrebbe essere l'azienda a preoccuparsi di certificare i propri dipendenti. Come hai potuto leggere su, sono rari i casi in cui valga davvero la pena investire in una certificazione, e non sempre portano al risultato ottenuto.
-
-## Lista libri e risorse consigliate divisi per categoria
+## Letture consigliate suddivise per categoria
 
 ### Crypto
 
@@ -67,9 +66,12 @@ In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, 
 - Assembly
   - [Practical Reverse Engineering](https://www.amazon.it/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/)
   - [Modern Assembly Language Programming with the ARM Processor](https://www.amazon.it/Modern-Assembly-Language-Programming-Processor/dp/0128036982/)
-- [Rust](https://doc.rust-lang.org/book/)
-- [Effective Go](https://golang.org/doc/effective_go.html)
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- Rust
+  - [Rust Book](https://doc.rust-lang.org/book/)
+- Go
+  - [Effective Go](https://golang.org/doc/effective_go.html)
+- Python
+  - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [Think](https://greenteapress.com/wp/)
 
 ### Networking
