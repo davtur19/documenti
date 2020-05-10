@@ -23,8 +23,12 @@ Inutile ricordare che la conoscenza dell'inglese è fondamentale, e viene prima 
 ### Quale corso universitario devo seguire?
 
 I corsi consigliati sono quelli che coprono gli argomenti elencati nella prima domanda, quindi per la triennale un corso di Computer Science (informatica) o Computer Engineering (ingegneria informatica).
-Esistono anche corsi sulla sicurezza informatica triennali o magistrali, in presenza o online.
+Esistono anche corsi sulla sicurezza informatica triennali o magistrali, in presenza oppure online.
 Per una lista aggiornata dell'offerta accademica in Italia consulta [questa pagina](https://www.consorzio-cini.it/index.php/it/labcs-home/formazione-in-cyber-security-in-italia) sul sito del Consorzio CINI.
+
+N.B.: Non stiamo dicendo che e' necessario frequentare un'Universita' per imparare le cose che verranno proposte.
+Chiunque con un minimo di testa, con le giuste risorse ed con il giusto impegno puo' arrivare ai livelli alti.
+L'importante e' NON smettere di studiare, sia pre che post Laurea / Certificazione / Qualsiasi titolo.
 
 ### Quale OS devo usare?
 
@@ -33,6 +37,8 @@ Quello su cui hai più dimestichezza. Se hai bisogno di un sistema operativo par
 ### Devo installare Kali Linux (o BackBox, Parrot, BlackArch, ecc...)?
 
 Per studiare sicurezza informatica non è necessario installare Kali Linux, nè in una macchina virtuale, nè come OS principale. Quando si studia un argomento, tipicamente si usano 1-3 tool specifici. Le distribuzioni dedicate come Kali hanno lo scopo di offrire centinaia di tool senza doversi preoccupare di installarli e configurarli. È facile intuire che con un'esigenza di 1-3 tool, installarne centinaia sia uno spreco. In situazioni invece dove, per esempio, si ha la necessità di dover lanciare una singola volta un tool specifico, mai usato prima, che richiede patch e dipendenze installate da sorgente, una distribuzione dedicata è perfetta. Ma raramente studiando ci si trova in questa situazione.
+
+*[Se l'abito non fa il monaco...perche' Kali dovrebbe fare l'hacker? :)]*
 
 ### Devo prendere certificazioni? Quali?
 
@@ -43,6 +49,7 @@ In termini d'utilità:
 - Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma probabilmente non sarà sufficiente per mantenere una seniority equivalente
 - Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione specifica potrebbe aiutarti a trovare lavoro presso un'aziende che la richiede, ma anche in quel caso potrebbe non essere sufficiente, dato che non si riuscirebbe a dimostrare esperienza in materia
 
+
 ## Letture consigliate suddivise per categoria
 
 ### Crypto
@@ -51,6 +58,8 @@ In termini d'utilità:
 - [Serious Crypto](https://nostarch.com/seriouscrypto)
 - [CryptoBook](https://crypto.stanford.edu/~dabo/cryptobook/)
 - [Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
+- [Crypto101](https://www.crypto101.io)
+- [CryptoHack](https://cryptohack.org)
 
 ### Sistemi operativi/architettura
 
@@ -63,9 +72,11 @@ In termini d'utilità:
 - C
   - [King](https://www.amazon.it/Programmazione-C-Kim-N-King/dp/8838785821/)
   - [K&R](https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf)
+  - [Modern C](https://modernc.gforge.inria.fr)
 - Assembly
   - [Practical Reverse Engineering](https://www.amazon.it/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/)
   - [Modern Assembly Language Programming with the ARM Processor](https://www.amazon.it/Modern-Assembly-Language-Programming-Processor/dp/0128036982/)
+  - [Reverse for Beginners](https://beginners.re)
 - Rust
   - [Rust Book](https://doc.rust-lang.org/book/)
 - Go
@@ -88,6 +99,7 @@ In termini d'utilità:
   - [Amministrare GNU/Linux](https://www.operedigitali.com/archivio/Amministrare-GNU-Linux-V4.0-web-cover-bis.pdf)
   - [Understanding the Linux Kernel](https://www.amazon.it/Understanding-Linux-Kernel-Daniel-Bovet/dp/0596005652/)
   - [Guida alla Programmazione in Linux](https://gapil.gnulinux.it/)
+  - [LinuxJourney](https://linuxjourney.com)
 - macOS
   - [MAC OS X Internals: A Systems Approach](https://www.amazon.it/MAC-OS-Internals-Systems-Approach/dp/0134426541/)
 
@@ -96,7 +108,11 @@ In termini d'utilità:
 - [phrack](https://www.phrack.org)
 - [PoC || GTFO](https://nostarch.com/gtfo)
 - [PoC || GTFO 2](https://nostarch.com/gtfo2)
-- [The paradox of choice](http://azeria-labs.com/downloads/Paradox-Of-Choice_Azeria.pdf)
+- [The Paradox of Choice](http://azeria-labs.com/downloads/Paradox-Of-Choice_Azeria.pdf)
+- [Process of Mastering Skill](https://azeria-labs.com/the-process-of-mastering-a-skill)
+- [Deep Work and Learning](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill)
+- [How to Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#what_is) (e' un documento serio, non clickbait)
+- [How to Build a CyberSec Carrer](https://danielmiessler.com/blog/build-successful-infosec-career)
 
 ### News
 
@@ -108,10 +124,12 @@ In termini d'utilità:
 - [Orange Tsai](https://blog.orange.tw/)
 
 ## Wall of Shame: materiale caldamente sconsigliato
-- Qualsiasi distro "per il pentest" (Kali, Parrot, ecc.)
+- Qualsiasi distro "per il pentest" (Kali, Parrot, ecc.), ricorda:
+*[L'abito non fa il monaco, Kali non fa l'hacker.]*
 - Gli "Hacker" che sentono il bisogno di scriverlo nella bio di Twitter e/o Linkedin
 - Qualsiasi corso che in tre semplici lezioni ti farà diventare un hacker etico
 - Hacklog e qualsiasi altro videocorso che promette risultati garantiti in 7 giorni
+- "Libri" di case come Apogeo, HackLog e simili. Spendete meglio i vostri soldi. Se si hanno dubbi, si puo' sempre chiedere. 
 - Qualsiasi religion war relativa a software, sistemi operativi, ecc. Il radicalismo (in qualsiasi ambito) è il tumore del progresso. Gli estremisti fungono da metastasi.
 
 *[in aggiornamento]*
