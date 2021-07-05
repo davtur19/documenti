@@ -65,6 +65,7 @@ In termini d'utilità:
 
 - [I moderni sistemi operativi](https://www.amazon.it/moderni-sistemi-operativi-aggiornamento-online/dp/8891901016/)
 - [Architettura calcolatori](https://www.amazon.it/Architettura-dei-calcolatori-approccio-strutturale/dp/8871929624/)
+- [Operating Systems: Three Easy Pieces](https://www.amazon.it/Operating-Systems-Three-Easy-Pieces/dp/198508659X/)
 
 ### Programmazione
 
