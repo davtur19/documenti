@@ -1,8 +1,8 @@
 # FAQ
 
-***DISCLAIMER** Questo documento non vuole essere un dogma. Le informazioni riportate in basso sono principalmente frutto di opinioni di una community e non sono "scientificamente dimostrate". Sebbene il documento contenga informazioni potenzialmente applicabili a qualsiasi circostanza, il target audience comprende principalmente giovani studenti indecisi. Se volete proporre nuovi contenuti, siete invitati a fare una pull request.*
+_**DISCLAIMER** Questo documento non vuole essere un dogma. Le informazioni riportate in basso sono principalmente frutto di opinioni di una community e non sono "scientificamente dimostrate". Sebbene il documento contenga informazioni potenzialmente applicabili a qualsiasi circostanza, il target audience comprende principalmente giovani studenti indecisi. Se volete proporre nuovi contenuti, siete invitati a fare una pull request._
 
-### Voglio entrare nel mondo della sicurezza informatica, da dove inizio?
+## Voglio entrare nel mondo della sicurezza informatica, da dove inizio?
 
 La sicurezza informatica è una specializzazione dell'informatica, quindi una conoscenza informatica "moderna" di base è necessaria:
 
@@ -20,7 +20,7 @@ Se credi di avere già un'infarinatura su questi argomenti, puoi cominciare a st
 
 Inutile ricordare che la conoscenza dell'inglese è fondamentale, e viene prima di qualsiasi altra cosa.
 
-### Quale corso universitario devo seguire?
+## Quale corso universitario devo seguire?
 
 I corsi consigliati sono quelli che coprono gli argomenti elencati nella prima domanda, quindi per la triennale un corso di Computer Science (informatica) o Computer Engineering (ingegneria informatica).
 Esistono anche corsi sulla sicurezza informatica triennali o magistrali, in presenza oppure online.
@@ -30,25 +30,25 @@ N.B.: Non stiamo dicendo che e' necessario frequentare un'Universita' per impara
 Chiunque con un minimo di testa, con le giuste risorse ed con il giusto impegno puo' arrivare ai livelli alti.
 L'importante e' NON smettere di studiare, sia pre che post Laurea / Certificazione / Qualsiasi titolo.
 
-### Quale OS devo usare?
+## Quale OS devo usare?
 
-Quello su cui hai più dimestichezza. Se hai bisogno di un sistema operativo particolare è sempre possibile usare una macchina virtuale (ad es. Virtualbox). Ovviamente, se ti interessa imparare un sistema operativo specifico, usa quello come sistema operativo principale.
+Quello su cui hai più dimestichezza. Se hai bisogno di un sistema operativo particolare è sempre possibile usare una macchina virtuale (ad es. [VirtualBox](https://www.virtualbox.org/)). Ovviamente, se ti interessa imparare un sistema operativo specifico, usa quello come sistema operativo principale.
 
-### Devo installare Kali Linux (o BackBox, Parrot, BlackArch, ecc...)?
+## Devo installare Kali Linux (o BackBox, Parrot, BlackArch, ecc...)?
 
 Per studiare sicurezza informatica non è necessario installare Kali Linux, nè in una macchina virtuale, nè come OS principale. Quando si studia un argomento, tipicamente si usano 1-3 tool specifici. Le distribuzioni dedicate come Kali hanno lo scopo di offrire centinaia di tool senza doversi preoccupare di installarli e configurarli. È facile intuire che con un'esigenza di 1-3 tool, installarne centinaia sia uno spreco. In situazioni invece dove, per esempio, si ha la necessità di dover lanciare una singola volta un tool specifico, mai usato prima, che richiede patch e dipendenze installate da sorgente, una distribuzione dedicata è perfetta. Ma raramente studiando ci si trova in questa situazione.
 
-*[Se l'abito non fa il monaco...perche' Kali dovrebbe fare l'hacker? :)]*
+> Se l'abito non fa il monaco...perche' Kali dovrebbe fare l'hacker? :)
 
-### Devo prendere certificazioni? Quali?
+## Devo prendere certificazioni? Se sì, quali?
 
 Le certificazioni sono il mezzo per il quale un'azienda può dimostrare di avere personale con competenze in un settore, verificate da un ente indipendente e riconosciuto. Sono quindi principalmente uno strumento aziendale e non un percorso formativo. È quindi responsabilità delle aziende permettere e supportare i propri dipendenti ad ottenere certificazioni professionali.
 
 In termini d'utilità:
+
 - Se sei uno studente senza esperienza lavorativa, una certificazione non ti aiuterà a trovare lavoro perché probabilmente sarai allo stesso piano di qualcuno non certificato
 - Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma probabilmente non sarà sufficiente per mantenere una seniority equivalente
 - Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione specifica potrebbe aiutarti a trovare lavoro presso un'aziende che la richiede, ma anche in quel caso potrebbe non essere sufficiente, dato che non si riuscirebbe a dimostrare esperienza in materia
-
 
 ## Letture consigliate suddivise per categoria
 
@@ -125,12 +125,12 @@ In termini d'utilità:
 - [Orange Tsai](https://blog.orange.tw/)
 
 ## Wall of Shame: materiale caldamente sconsigliato
-- Qualsiasi distro "per il pentest" (Kali, Parrot, ecc.), ricorda:
-*[L'abito non fa il monaco, Kali non fa l'hacker.]*
-- Gli "Hacker" che sentono il bisogno di scriverlo nella bio di Twitter e/o Linkedin
+
+- Qualsiasi distro "per il pentest" (Kali, Parrot, ecc.), ricorda: _L'abito non fa il monaco, Kali non fa l'hacker_
+- Gli "Hacker" che sentono il bisogno di scriverlo nella bio di Twitter e/o LinkedIn
 - Qualsiasi corso che in tre semplici lezioni ti farà diventare un hacker etico
 - Hacklog e qualsiasi altro videocorso che promette risultati garantiti in 7 giorni
-- "Libri" di case come Apogeo, HackLog e simili. Spendete meglio i vostri soldi. Se si hanno dubbi, si puo' sempre chiedere. 
-- Qualsiasi religion war relativa a software, sistemi operativi, ecc. Il radicalismo (in qualsiasi ambito) è il tumore del progresso. Gli estremisti fungono da metastasi.
+- "Libri" di case come Apogeo, HackLog e simili. Spendete meglio i vostri soldi. Se si hanno dubbi, si può sempre chiedere.
+- Qualsiasi religion war relativa a software, sistemi operativi, etc. Il radicalismo (in qualsiasi ambito) è il tumore del progresso. Gli estremisti fungono da metastasi.
 
-*[in aggiornamento]*
+> _in aggiornamento..._
