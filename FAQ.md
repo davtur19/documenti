@@ -60,6 +60,7 @@ In termini d'utilità:
 - [Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 - [Crypto101](https://www.crypto101.io)
 - [CryptoHack](https://cryptohack.org)
+- [The Joy of Cryptography](https://joyofcryptography.com/)
 
 ### Sistemi operativi/architettura
 
@@ -72,8 +73,9 @@ In termini d'utilità:
 - [Introduction to Algorithms](https://www.amazon.it/Introduction-Algorithms-Thomas-H-Cormen/dp/0262533057/)
 - C
   - [King](https://www.amazon.it/Programmazione-C-Kim-N-King/dp/8838785821/)
-  - [K&R](https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf)
+  - [K&R](https://www.amazon.it/dp/B09GJP5238)
   - [Modern C](https://modernc.gforge.inria.fr)
+  - [Beej’s Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_a4_c_2.pdf)
 - Assembly
   - [Practical Reverse Engineering](https://www.amazon.it/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/)
   - [Modern Assembly Language Programming with the ARM Processor](https://www.amazon.it/Modern-Assembly-Language-Programming-Processor/dp/0128036982/)
@@ -90,6 +92,7 @@ In termini d'utilità:
 
 - [Reti di calcolatori e internet. Un approccio top-down](https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891902543/)
 - [TCP/IP Illustrated: The Protocols: 1](https://www.amazon.it/TCP-IP-Illustrated-Protocols-1/dp/0321336313/)
+- [Beej's Guide to Networking Programming](https://beej.us/guide/bgnet/pdf/bgnet_a4_c_2.pdf)
 
 ### OS
 
@@ -100,6 +103,7 @@ In termini d'utilità:
   - [Amministrare GNU/Linux](https://www.operedigitali.com/archivio/Amministrare-GNU-Linux-V4.0-web-cover-bis.pdf)
   - [Understanding the Linux Kernel](https://www.amazon.it/Understanding-Linux-Kernel-Daniel-Bovet/dp/0596005652/)
   - [Guida alla Programmazione in Linux](https://gapil.gnulinux.it/)
+  - [The Linux Kernel Module Programming Guide](https://tldp.org/LDP/lkmpg/2.4/lkmpg.pdf)
   - [LinuxJourney](https://linuxjourney.com)
 - macOS
   - [MAC OS X Internals: A Systems Approach](https://www.amazon.it/MAC-OS-Internals-Systems-Approach/dp/0134426541/)
