@@ -24,7 +24,6 @@ Inutile ricordare che la conoscenza dell'inglese è fondamentale, e viene prima 
 
 I corsi consigliati sono quelli che coprono gli argomenti elencati nella prima domanda, quindi per la triennale un corso di Computer Science (informatica) o Computer Engineering (ingegneria informatica).
 Esistono anche corsi sulla sicurezza informatica triennali o magistrali, in presenza oppure online.
-Per una lista aggiornata dell'offerta accademica in Italia consulta [questa pagina](https://www.consorzio-cini.it/index.php/it/labcs-home/formazione-in-cyber-security-in-italia) sul sito del Consorzio CINI.
 
 N.B.: Non stiamo dicendo che e' necessario frequentare un'Universita' per imparare le cose che verranno proposte.
 Chiunque con un minimo di testa, con le giuste risorse ed con il giusto impegno puo' arrivare ai livelli alti.
@@ -64,7 +63,7 @@ In termini d'utilità:
 
 ### Sistemi operativi/architettura
 
-- [I moderni sistemi operativi](https://www.amazon.it/moderni-sistemi-operativi-aggiornamento-online/dp/8891901016/)
+- [I moderni sistemi operativi](https://www.amazon.it/moderni-sistemi-operativi-MyLab-aggiornamento-dp-8891931950/dp/8891931950/)
 - [Architettura calcolatori](https://www.amazon.it/Architettura-dei-calcolatori-approccio-strutturale/dp/8871929624/)
 - [Operating Systems: Three Easy Pieces](https://www.amazon.it/Operating-Systems-Three-Easy-Pieces/dp/198508659X/)
 
@@ -74,7 +73,7 @@ In termini d'utilità:
 - C
   - [King](https://www.amazon.it/Programmazione-C-Kim-N-King/dp/8838785821/)
   - [K&R](https://www.amazon.it/dp/B09GJP5238)
-  - [Modern C](https://modernc.gforge.inria.fr)
+  - [Modern C](https://web.archive.org/web/20200502134257/https://modernc.gforge.inria.fr/)
   - [Beej’s Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_a4_c_2.pdf)
 - Assembly
   - [Practical Reverse Engineering](https://www.amazon.it/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/)
@@ -118,15 +117,26 @@ In termini d'utilità:
 - [Deep Work and Learning](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill)
 - [How to Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#what_is) (e' un documento serio, non clickbait)
 - [How to Build a CyberSec Carrer](https://danielmiessler.com/blog/build-successful-infosec-career)
+- [Hacktricks](https://book.hacktricks.xyz/welcome/readme)
+- [Hacktricks Cloud](https://cloud.hacktricks.xyz/welcome/readme)
+- [Cyber Security Roadmap](https://roadmap.sh/cyber-security)
+- [Guide to learn Hacking (video)](https://youtu.be/2TofunAI6fU)
 
 ### News
 
 - [HackerNews](https://news.ycombinator.com/) (Quello vero 🙃)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
 
 ### Blog
 
 - [Google Project0](https://googleprojectzero.blogspot.com/)
 - [Orange Tsai](https://blog.orange.tw/)
+
+### Labs
+
+- [Portwigger Academy](https://portswigger.net/web-security)
+- [HackTheBox Accademy](https://academy.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
 
 ## Wall of Shame: materiale caldamente sconsigliato
 
@@ -137,4 +147,6 @@ In termini d'utilità:
 - "Libri" di case come Apogeo, HackLog e simili. Spendete meglio i vostri soldi. Se si hanno dubbi, si può sempre chiedere.
 - Qualsiasi religion war relativa a software, sistemi operativi, etc. Il radicalismo (in qualsiasi ambito) è il tumore del progresso. Gli estremisti fungono da metastasi.
 
-> _in aggiornamento..._
+### Cybersecurity Domains
+
+![Cybersecurity Domains](https://raw.githubusercontent.com/davtur19/documenti/master/assets/Cybersecurity%20Domains%203.1.png)
