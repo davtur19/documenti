@@ -134,7 +134,7 @@ In termini d'utilità:
 
 ### Labs
 
-- [Portwigger Academy](https://portswigger.net/web-security)
+- [PortSwigger Academy](https://portswigger.net/web-security)
 - [HackTheBox Accademy](https://academy.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
 
