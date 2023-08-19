@@ -137,6 +137,14 @@ In termini d'utilità:
 - [PortSwigger Academy](https://portswigger.net/web-security)
 - [HackTheBox Accademy](https://academy.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
+- [Root-Me](https://www.root-me.org/)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) 
+- [VulnHub](https://www.vulnhub.com/)
+- [Pwn.College](https://pwn.college/)
+- [DVWA](https://github.com/digininja/DVWA)
+- [ROP Emporium](https://ropemporium.com/)
+- [OffSec Proving Grounds](https://www.offsec.com/labs/individual/)
+- [PentesterLab](https://pentesterlab.com/)
 
 ## Wall of Shame: materiale caldamente sconsigliato
 
