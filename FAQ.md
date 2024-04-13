@@ -137,6 +137,7 @@ In termini d'utilità:
 - [PortSwigger Academy](https://portswigger.net/web-security)
 - [HackTheBox Accademy](https://academy.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
+- [Pwn.college](https://pwn.college/)
 
 ## Wall of Shame: materiale caldamente sconsigliato
 
