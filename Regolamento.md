@@ -1,4 +1,4 @@
-# Regolamento gruppo Sicurezza Informatica (@infosecita)
+# Regolamento gruppo Sicurezza Informatica
 
 Al fine di supportare discussioni costruttive si richiede di mantenere un livello minimo di decenza e di educazione, e di promuovere la condivisione libera di informazioni. Tuttavia, è vietato:
 
