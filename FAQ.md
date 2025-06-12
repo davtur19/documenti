@@ -99,7 +99,7 @@ In termini d'utilità:
   - [Windows Internals, Book 1: User Mode](https://www.amazon.it/Windows-Internals-Book-User-Mode/dp/0735684189/)
   - [Accelerated Windows Malware Analysis with Memory Dumps](https://www.amazon.it/Accelerated-Windows-Malware-Analysis-Memory/dp/1908043865/)
 - Linux
-  - [Amministrare GNU/Linux](https://person.dibris.unige.it/delzanno-giorgio/SO1/AA0607/corso.pdf)
+  - [Amministrare GNU/Linux](https://archive.org/details/amministrare-gnu-linux)
   - [Understanding the Linux Kernel](https://www.amazon.it/Understanding-Linux-Kernel-Daniel-Bovet/dp/0596005652/)
   - [Guida alla Programmazione in Linux](https://gapil.gnulinux.it/)
   - [The Linux Kernel Module Programming Guide](https://tldp.org/LDP/lkmpg/2.4/lkmpg.pdf)
